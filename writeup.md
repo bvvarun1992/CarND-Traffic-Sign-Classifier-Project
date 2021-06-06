@@ -13,15 +13,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./writeup_images/explore.jpg "Visualization"
-[image2]: ./writeup_images/explore2.jpg "Grayscaling"
-[image3]: ./writeup_images/accuracy.jpg "Grayscaling"
-[image4]:./writeup_images/test.jpg "Grayscaling"
-[image5]: ./examples/placeholder.png "Traffic Sign 2"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
----
+[image1]: ./writeup_images/explore.JPG "Visualization"
+[image2]: ./writeup_images/explore2.JPG  "Grayscaling"
+[image3]: ./writeup_images/accuracy.JPG  "Grayscaling"
+[image4]:./writeup_images/test.JPG  "Grayscaling"
 
 ### Data Set Summary & Exploration
 
